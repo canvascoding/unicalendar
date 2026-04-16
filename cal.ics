@@ -104,72 +104,38 @@ RDATE:19800101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
-DTSTART;TZID=Europe/Berlin:20260211T090000
-DTEND;TZID=Europe/Berlin:20260211T103000
-SUMMARY:MAP-MWiWi 1.8-K MAP Management von Handlungen - K
-LAST-MODIFIED:20250919T121045Z
-UID:55ca8573-04ba-4f4d-976a-374cc93b8d6e
-CATEGORIES:Modulprüfung
+DTSTAMP:20260416T092429Z
+DTSTART;TZID=Europe/Berlin:20251205T100000
+DTEND;TZID=Europe/Berlin:20251205T120000
+SUMMARY:WIR024203 Fortgeschrittene Verfahren der Datenauswertung (Übung) 
+ – Zentralübung
+LAST-MODIFIED:20250801T092328Z
+UID:e772e02d-a73b-4d53-b74e-e5f51d4b0568
+RRULE:FREQ=WEEKLY;UNTIL=20260206T120000;INTERVAL=1;BYDAY=FR
+LOCATION:L.09.21 – Hörsaal 13
+CATEGORIES:Übung
+EXDATE;TZID=Europe/Berlin:20260102T100000,20251226T100000
 URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
- ml?_flowId=detailView-flow&unitId=37046&periodId=3502
+ ml?_flowId=detailView-flow&unitId=70444&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
-DTSTART;TZID=Europe/Berlin:20260220T120000
-DTEND;TZID=Europe/Berlin:20260220T133000
-SUMMARY:MAP-MWiWi 2.4-K MAP Entrepreneurship und Wirtschaftsentwicklung -
-  K
-LAST-MODIFIED:20250919T122738Z
-UID:9d8e8fba-7f61-45ad-a184-e14b338d9d37
-CATEGORIES:Modulprüfung
+DTSTAMP:20260416T092429Z
+DTSTART;TZID=Europe/Berlin:20251205T140000
+DTEND;TZID=Europe/Berlin:20251205T160000
+SUMMARY:WIR024203 Fortgeschrittene Verfahren der Datenauswertung (Übung) 
+ – 2. Kleingruppe
+LAST-MODIFIED:20250606T105457Z
+UID:c5f6e01d-1b26-4d1f-840c-6fb4f5992d64
+RRULE:FREQ=WEEKLY;UNTIL=20260206T160000;INTERVAL=1;BYDAY=FR
+LOCATION:M.13.05 – CIP 1
+CATEGORIES:Übung
+EXDATE;TZID=Europe/Berlin:20251226T140000,20260109T140000,20260102T140000
+ 
 URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
- ml?_flowId=detailView-flow&unitId=36874&periodId=3502
+ ml?_flowId=detailView-flow&unitId=70444&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
-DTSTART;TZID=Europe/Berlin:20260226T120000
-DTEND;TZID=Europe/Berlin:20260226T133000
-SUMMARY:MAP-MWiWi 1.6-K MAP Informationsmanagement und IT-Projektmanageme
- nt - K
-LAST-MODIFIED:20250919T124254Z
-UID:5f3fce86-d3e4-473d-bc38-4e5e41cee346
-CATEGORIES:Modulprüfung
-URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
- ml?_flowId=detailView-flow&unitId=6506&periodId=3502
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
-DTSTART;TZID=Europe/Berlin:20260303T120000
-DTEND;TZID=Europe/Berlin:20260303T133000
-SUMMARY:MAP-MWiWi 4.3-K MAP Empirische Management- und Marketingforschung
-  - K
-LAST-MODIFIED:20250919T125234Z
-UID:19b7e04f-19a7-4e73-98d4-b2ccbb2aa76c
-CATEGORIES:Leistungsnachweis
-URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
- ml?_flowId=detailView-flow&unitId=36752&periodId=3502
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
-DTSTART;TZID=Europe/Berlin:20251017T100000
-DTEND;TZID=Europe/Berlin:20251017T120000
-SUMMARY:WIR035204 Unternehmertum und digitale Lösungen für globale Heraus
- forderungen (#STUD)
-DESCRIPTION:Die Veranstaltung findet als Zoom-Veranstaltung statt. Link z
- um Meeting:&nbsp\;<span style="font-size:11.0pt"><span><a href="https://
- uni-wuppertal.zoom-x.de/my/philipp.trotter?pwd=cGpyUVZuSVRhcXlEd1dJQ0hzK
- 3NUdz09" style="color:#0563c1\; text-decoration:underline">https://uni-w
- uppertal.zoom-x.de/my/philipp.trotter?pwd=cGpyUVZuSVRhcXlEd1dJQ0hzK3NUdz
- 09</a>.&nbsp\;</span></span>
-LAST-MODIFIED:20250922T145551Z
-UID:420a164f-210b-4c55-96ac-200812110eec
-CATEGORIES:Seminar
-URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
- ml?_flowId=detailView-flow&unitId=85337&periodId=3502
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
+DTSTAMP:20260416T092430Z
 DTSTART;TZID=Europe/Berlin:20251020T100000
 DTEND;TZID=Europe/Berlin:20251020T140000
 SUMMARY:WIR005203 Management von Handlungen
@@ -183,7 +149,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=55096&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
+DTSTAMP:20260416T092430Z
 DTSTART;TZID=Europe/Berlin:20251021T080000
 DTEND;TZID=Europe/Berlin:20251021T100000
 SUMMARY:WIR005203 Management von Handlungen
@@ -197,21 +163,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=55096&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
-DTSTART;TZID=Europe/Berlin:20251022T100000
-DTEND;TZID=Europe/Berlin:20251022T140000
-SUMMARY:WIR024201 Empirische Management- und Marketingforschung
-LAST-MODIFIED:20250801T075912Z
-UID:c35f9b40-8736-479a-8cfd-5301729c8aee
-RRULE:FREQ=WEEKLY;UNTIL=20260204T140000;INTERVAL=1;BYDAY=WE
-LOCATION:T.08.20 – Hörsaal 24
-CATEGORIES:Vorlesung
-EXDATE;TZID=Europe/Berlin:20251231T100000,20251224T100000
-URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
- ml?_flowId=detailView-flow&unitId=55174&periodId=3502
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
+DTSTAMP:20260416T092430Z
 DTSTART;TZID=Europe/Berlin:20251023T080000
 DTEND;TZID=Europe/Berlin:20251023T100000
 SUMMARY:WIR029201 Evolutorische Ökonomik
@@ -225,20 +177,49 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=55114&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
-DTSTART;TZID=Europe/Berlin:20251024T100000
-DTEND;TZID=Europe/Berlin:20251024T140000
-SUMMARY:WIR035204 Unternehmertum und digitale Lösungen für globale Heraus
- forderungen (#STUD)
-LAST-MODIFIED:20250924T062141Z
-UID:903d7ca4-1bee-45fc-a9dd-5887d2d61cf1
-LOCATION:K.11.10 – Seminar K8
-CATEGORIES:Seminar
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20251030T100000
+DTEND;TZID=Europe/Berlin:20251030T120000
+SUMMARY:WIR012201 Entrepreneurship und Marktentwicklung
+LAST-MODIFIED:20250801T085241Z
+UID:f5f84e7c-578d-4862-bcf3-029e42e7a0ba
+RRULE:FREQ=WEEKLY;UNTIL=20260205T120000;INTERVAL=1;BYDAY=TH
+LOCATION:O.07.26 – Hörsaal 21
+CATEGORIES:Vorlesung
+EXDATE;TZID=Europe/Berlin:20260101T100000,20251225T100000
 URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
- ml?_flowId=detailView-flow&unitId=85337&periodId=3502
+ ml?_flowId=detailView-flow&unitId=55116&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20251030T120000
+DTEND;TZID=Europe/Berlin:20251030T140000
+SUMMARY:WIR012202 Wettbewerbsglobalisierung
+LAST-MODIFIED:20250801T085217Z
+UID:e4602f10-969a-4823-8d32-7bd356724c69
+RRULE:FREQ=WEEKLY;UNTIL=20260205T140000;INTERVAL=1;BYDAY=TH
+LOCATION:O.07.26 – Hörsaal 21
+CATEGORIES:Vorlesung
+EXDATE;TZID=Europe/Berlin:20260101T120000,20251225T120000
+URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
+ ml?_flowId=detailView-flow&unitId=55117&periodId=3502
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20251031T120000
+DTEND;TZID=Europe/Berlin:20251031T160000
+SUMMARY:WIR023208 IT-Projektmanagement
+LAST-MODIFIED:20250814T060658Z
+UID:cd11c47f-50bd-49b4-8931-995288b56c5a
+RRULE:FREQ=WEEKLY;UNTIL=20260206T160000;INTERVAL=2;BYDAY=FR
+LOCATION:M.12.25 – Seminar M.12.25
+CATEGORIES:Vorlesung
+EXDATE;TZID=Europe/Berlin:20251226T120000
+URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
+ ml?_flowId=detailView-flow&unitId=58230&periodId=3502
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T092430Z
 DTSTART;TZID=Europe/Berlin:20251024T120000
 DTEND;TZID=Europe/Berlin:20251024T160000
 SUMMARY:WIR023209 Informationsmanagement
@@ -262,80 +243,52 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=58231&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
-DTSTART;TZID=Europe/Berlin:20251030T100000
-DTEND;TZID=Europe/Berlin:20251030T120000
-SUMMARY:WIR012201 Entrepreneurship und Marktentwicklung
-LAST-MODIFIED:20250801T085241Z
-UID:f5f84e7c-578d-4862-bcf3-029e42e7a0ba
-RRULE:FREQ=WEEKLY;UNTIL=20260205T120000;INTERVAL=1;BYDAY=TH
-LOCATION:O.07.26 – Hörsaal 21
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20251022T100000
+DTEND;TZID=Europe/Berlin:20251022T140000
+SUMMARY:WIR024201 Empirische Management- und Marketingforschung
+LAST-MODIFIED:20250801T075912Z
+UID:c35f9b40-8736-479a-8cfd-5301729c8aee
+RRULE:FREQ=WEEKLY;UNTIL=20260204T140000;INTERVAL=1;BYDAY=WE
+LOCATION:T.08.20 – Hörsaal 24
 CATEGORIES:Vorlesung
-EXDATE;TZID=Europe/Berlin:20260101T100000,20251225T100000
+EXDATE;TZID=Europe/Berlin:20251231T100000,20251224T100000
 URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
- ml?_flowId=detailView-flow&unitId=55116&periodId=3502
+ ml?_flowId=detailView-flow&unitId=55174&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
-DTSTART;TZID=Europe/Berlin:20251030T120000
-DTEND;TZID=Europe/Berlin:20251030T140000
-SUMMARY:WIR012202 Wettbewerbsglobalisierung
-LAST-MODIFIED:20250801T085217Z
-UID:e4602f10-969a-4823-8d32-7bd356724c69
-RRULE:FREQ=WEEKLY;UNTIL=20260205T140000;INTERVAL=1;BYDAY=TH
-LOCATION:O.07.26 – Hörsaal 21
-CATEGORIES:Vorlesung
-EXDATE;TZID=Europe/Berlin:20260101T120000,20251225T120000
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20251017T100000
+DTEND;TZID=Europe/Berlin:20251017T120000
+SUMMARY:WIR035204 Unternehmertum und digitale Lösungen für globale Heraus
+ forderungen (#STUD)
+DESCRIPTION:Die Veranstaltung findet als Zoom-Veranstaltung statt. Link z
+ um Meeting:&nbsp\;<span style="font-size:11.0pt"><span><a href="https://
+ uni-wuppertal.zoom-x.de/my/philipp.trotter?pwd=cGpyUVZuSVRhcXlEd1dJQ0hzK
+ 3NUdz09" style="color:#0563c1\; text-decoration:underline">https://uni-w
+ uppertal.zoom-x.de/my/philipp.trotter?pwd=cGpyUVZuSVRhcXlEd1dJQ0hzK3NUdz
+ 09</a>.&nbsp\;</span></span>
+LAST-MODIFIED:20250922T145551Z
+UID:420a164f-210b-4c55-96ac-200812110eec
+CATEGORIES:Seminar
 URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
- ml?_flowId=detailView-flow&unitId=55117&periodId=3502
+ ml?_flowId=detailView-flow&unitId=85337&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
-DTSTART;TZID=Europe/Berlin:20251031T120000
-DTEND;TZID=Europe/Berlin:20251031T160000
-SUMMARY:WIR023208 IT-Projektmanagement
-LAST-MODIFIED:20250814T060658Z
-UID:cd11c47f-50bd-49b4-8931-995288b56c5a
-RRULE:FREQ=WEEKLY;UNTIL=20260206T160000;INTERVAL=2;BYDAY=FR
-LOCATION:M.12.25 – Seminar M.12.25
-CATEGORIES:Vorlesung
-EXDATE;TZID=Europe/Berlin:20251226T120000
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20251024T100000
+DTEND;TZID=Europe/Berlin:20251024T140000
+SUMMARY:WIR035204 Unternehmertum und digitale Lösungen für globale Heraus
+ forderungen (#STUD)
+LAST-MODIFIED:20250924T062141Z
+UID:903d7ca4-1bee-45fc-a9dd-5887d2d61cf1
+LOCATION:K.11.10 – Seminar K8
+CATEGORIES:Seminar
 URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
- ml?_flowId=detailView-flow&unitId=58230&periodId=3502
+ ml?_flowId=detailView-flow&unitId=85337&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
-DTSTART;TZID=Europe/Berlin:20251205T100000
-DTEND;TZID=Europe/Berlin:20251205T120000
-SUMMARY:WIR024203 Fortgeschrittene Verfahren der Datenauswertung (Übung) 
- – Zentralübung
-LAST-MODIFIED:20250801T092328Z
-UID:e772e02d-a73b-4d53-b74e-e5f51d4b0568
-RRULE:FREQ=WEEKLY;UNTIL=20260206T120000;INTERVAL=1;BYDAY=FR
-LOCATION:L.09.21 – Hörsaal 13
-CATEGORIES:Übung
-EXDATE;TZID=Europe/Berlin:20260102T100000,20251226T100000
-URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
- ml?_flowId=detailView-flow&unitId=70444&periodId=3502
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
-DTSTART;TZID=Europe/Berlin:20251205T140000
-DTEND;TZID=Europe/Berlin:20251205T160000
-SUMMARY:WIR024203 Fortgeschrittene Verfahren der Datenauswertung (Übung) 
- – 2. Kleingruppe
-LAST-MODIFIED:20250606T105457Z
-UID:c5f6e01d-1b26-4d1f-840c-6fb4f5992d64
-RRULE:FREQ=WEEKLY;UNTIL=20260206T160000;INTERVAL=1;BYDAY=FR
-LOCATION:M.13.05 – CIP 1
-CATEGORIES:Übung
-EXDATE;TZID=Europe/Berlin:20251226T140000,20260109T140000,20260102T140000
- 
-URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
- ml?_flowId=detailView-flow&unitId=70444&periodId=3502
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
+DTSTAMP:20260416T092430Z
 DTSTART;TZID=Europe/Berlin:20251212T100000
 DTEND;TZID=Europe/Berlin:20251212T120000
 SUMMARY:WIR035204 Unternehmertum und digitale Lösungen für globale Heraus
@@ -348,7 +301,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=85337&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260223T230024Z
+DTSTAMP:20260416T092430Z
 DTSTART;TZID=Europe/Berlin:20260206T100000
 DTEND;TZID=Europe/Berlin:20260206T120000
 SUMMARY:WIR035204 Unternehmertum und digitale Lösungen für globale Heraus
@@ -359,5 +312,202 @@ LOCATION:K.11.10 – Seminar K8
 CATEGORIES:Seminar
 URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=85337&periodId=3502
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20260421T100000
+DTEND;TZID=Europe/Berlin:20260421T120000
+SUMMARY:WIR007001 Master-Seminar Innovationsmanagement (#STUD)
+LAST-MODIFIED:20251021T095219Z
+UID:9fe0a8a5-6814-46bb-b8cd-1c75e8e4a4ed
+LOCATION:M.14.22 – Seminar M.14.22
+CATEGORIES:Seminar
+URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
+ ml?_flowId=detailView-flow&unitId=58393&periodId=3508
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20260714T080000
+DTEND;TZID=Europe/Berlin:20260714T140000
+SUMMARY:WIR007001 Master-Seminar Innovationsmanagement (#STUD)
+LAST-MODIFIED:20251021T095219Z
+UID:081cc0a6-133e-410a-bb55-4c59c6ef1b6a
+LOCATION:M.14.22 – Seminar M.14.22
+CATEGORIES:Seminar
+URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
+ ml?_flowId=detailView-flow&unitId=58393&periodId=3508
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20260421T100000
+DTEND;TZID=Europe/Berlin:20260421T120000
+SUMMARY:WIR014101 Introduction to Economics of Innovation / Advanced Econ
+ omics of Innovation
+DESCRIPTION:dienstags\, 10-12 Uhr<br>\nAufgrund eines Forschungssemesters
+  von Prof. Dr. Werner Bönte ist das Kursangebot des Lehrstuhls eingeschr
+ änkt.&nbsp\;<br>\nDas Modul MWiWi 2.6 Economics of Innovation wird angeb
+ oten\, jedoch können die Lehrveranstaltungen dieses Moduls aus Kapazität
+ sgründen leider nur eingeschränkt in Präsenz stattfinden: wöchentlich in
+  Form einer Übung sowie einer Q&amp\;A-Session (inverted classroom). Dar
+ über hinaus werden zahlreiche Screencasts über Moodle zur Verfügung gest
+ ellt.&nbsp\;<br>\n<br>Tuesday\, 10 a.m.-12 p.m.\n<p>Due to a research se
+ mester by Prof. Dr. Werner Bönte\, the range of courses offered by the c
+ hair in the 2026 summer semester will be limited.</p>\n\n<p>The MWiWi 2.
+ 6 Economics of Innovation module will be offered\, but due to capacity r
+ easons\, the courses in this module can unfortunately only take place in
+  person to a limited extent: weekly in the form of an exercise and a Q&a
+ mp\;A session (inverted classroom). In addition\, numerous screencasts w
+ ill be made available via Moodle.</p>
+LAST-MODIFIED:20260320T101156Z
+UID:349320ea-2452-49c8-b52a-005a34b83886
+RRULE:FREQ=WEEKLY;UNTIL=20260721T120000;INTERVAL=1;BYDAY=TU
+LOCATION:M.12.25 – Seminar M.12.25
+CATEGORIES:Vorlesung
+EXDATE;TZID=Europe/Berlin:20260526T100000
+URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
+ ml?_flowId=detailView-flow&unitId=58205&periodId=3508
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20260421T140000
+DTEND;TZID=Europe/Berlin:20260421T160000
+SUMMARY:WIR014102 Economics of Innovation
+DESCRIPTION:<p>\n<span style="color: #1d2125\; background-color: #ffffff"
+ >Übung</span>&nbsp\;dienstags\, 14-16 Uhr<br>\n<br>\nAufgrund eines Fors
+ chungssemesters von Prof. Dr. Werner Bönte ist das Kursangebot des Lehrs
+ tuhls im Sommersemester 2026 eingeschränkt.</p>\n\n<p>Das Modul MWiWi 2.
+ 6 Economics of Innovation wird angeboten\, jedoch können die Lehrveranst
+ altungen dieses Moduls aus Kapazitätsgründen leider nur eingeschränkt in
+  Präsenz stattfinden: wöchentlich in Form einer Übung sowie einer Q&amp\
+ ;A-Session (reversed classroom). Darüber hinaus werden zahlreiche Screen
+ casts über Moodle zur Verfügung gestellt.</p>\n\n<p><br>\nExercise every
+  Tuesday\, 2 p.m.-4.p.m.</p>\n\n<p><br>\nDue to a research semester by P
+ rof. Dr. Werner Bönte\, the range of courses offered by the chair in the
+  2026 summer semester will be limited.</p>\n\n<p>The MWiWi 2.6 Economics
+  of Innovation module will be offered\, but due to capacity reasons\, th
+ e courses in this module can unfortunately only take place in person to 
+ a limited extent: weekly in the form of an exercise and a Q&amp\;A sessi
+ on (reversed classroom). In addition\, numerous screencasts will be made
+  available via Moodle.</p>\n<br>\n&nbsp\;
+LAST-MODIFIED:20260401T131304Z
+UID:04d65710-01f8-474a-9410-6f5924e8ff03
+RRULE:FREQ=WEEKLY;UNTIL=20260721T160000;INTERVAL=1;BYDAY=TU
+LOCATION:M.12.25 – Seminar M.12.25
+CATEGORIES:Übung
+EXDATE;TZID=Europe/Berlin:20260526T140000
+URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
+ ml?_flowId=detailView-flow&unitId=58206&periodId=3508
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20260417T120000
+DTEND;TZID=Europe/Berlin:20260417T140000
+SUMMARY:WIR001101 Risikocontrolling
+LAST-MODIFIED:20260205T075955Z
+UID:da083268-524a-45a2-a9d2-3b841e8ec945
+RRULE:FREQ=WEEKLY;UNTIL=20260724T140000;INTERVAL=1;BYDAY=FR
+LOCATION:I.13.71 – Hörsaal 28
+CATEGORIES:Vorlesung
+EXDATE;TZID=Europe/Berlin:20260501T120000,20260529T120000
+URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
+ ml?_flowId=detailView-flow&unitId=63584&periodId=3508
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20260421T100000
+DTEND;TZID=Europe/Berlin:20260421T140000
+SUMMARY:WIR001101 Risikocontrolling
+LAST-MODIFIED:20260211T182121Z
+UID:084b9ada-a79b-4071-917d-f7b11304ec29
+RRULE:FREQ=WEEKLY;UNTIL=20260721T140000;INTERVAL=1;BYDAY=TU
+LOCATION:I.13.71 – Hörsaal 28
+CATEGORIES:Vorlesung
+EXDATE;TZID=Europe/Berlin:20260526T100000
+URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
+ ml?_flowId=detailView-flow&unitId=63584&periodId=3508
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20260421T140000
+DTEND;TZID=Europe/Berlin:20260421T160000
+SUMMARY:WIR004103 Strategisches Markenmanagement
+LAST-MODIFIED:20260127T110935Z
+UID:e95a326a-19e7-4bc5-a666-cad49d368afb
+RRULE:FREQ=WEEKLY;UNTIL=20260721T160000;INTERVAL=1;BYDAY=TU
+LOCATION:K.11.20 – Seminar K5
+CATEGORIES:Vorlesung
+EXDATE;TZID=Europe/Berlin:20260526T140000
+URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
+ ml?_flowId=detailView-flow&unitId=63606&periodId=3508
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20260421T160000
+DTEND;TZID=Europe/Berlin:20260421T180000
+SUMMARY:WIR004104 Operatives Markenmanagement
+LAST-MODIFIED:20260127T110925Z
+UID:12f0a84c-8f9b-472d-859e-83f0af56501f
+RRULE:FREQ=WEEKLY;UNTIL=20260721T180000;INTERVAL=1;BYDAY=TU
+LOCATION:K.11.20 – Seminar K5
+CATEGORIES:Vorlesung
+EXDATE;TZID=Europe/Berlin:20260526T160000
+URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
+ ml?_flowId=detailView-flow&unitId=63607&periodId=3508
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20260520T160000
+DTEND;TZID=Europe/Berlin:20260520T200000
+SUMMARY:WIR004105 Praxis des Markenmanagements
+LAST-MODIFIED:20260211T190738Z
+UID:2e405278-dcc3-4f6f-80f3-666bafedd4bb
+RRULE:FREQ=WEEKLY;UNTIL=20260722T200000;INTERVAL=1;BYDAY=WE
+LOCATION:K.11.20 – Seminar K5
+CATEGORIES:Übung
+EXDATE;TZID=Europe/Berlin:20260527T160000
+URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
+ ml?_flowId=detailView-flow&unitId=63608&periodId=3508
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20260417T100000
+DTEND;TZID=Europe/Berlin:20260417T120000
+SUMMARY:WIR007101 Innovationsmanagement
+LAST-MODIFIED:20251117T073058Z
+UID:222ee661-8e31-4f63-baf6-1b62b0022aab
+RRULE:FREQ=WEEKLY;UNTIL=20260724T120000;INTERVAL=1;BYDAY=FR
+LOCATION:K.11.23 – Hörsaal 32
+CATEGORIES:Vorlesung
+EXDATE;TZID=Europe/Berlin:20260501T100000,20260529T100000
+URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
+ ml?_flowId=detailView-flow&unitId=63619&periodId=3508
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20260417T120000
+DTEND;TZID=Europe/Berlin:20260417T140000
+SUMMARY:WIR007102 Technologiemanagement
+LAST-MODIFIED:20251117T073058Z
+UID:2ed7ad6b-e6db-446a-948c-1c36da4bd55f
+RRULE:FREQ=WEEKLY;UNTIL=20260724T140000;INTERVAL=1;BYDAY=FR
+LOCATION:K.11.23 – Hörsaal 32
+CATEGORIES:Vorlesung
+EXDATE;TZID=Europe/Berlin:20260529T120000,20260501T120000
+URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
+ ml?_flowId=detailView-flow&unitId=63620&periodId=3508
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T092430Z
+DTSTART;TZID=Europe/Berlin:20260417T140000
+DTEND;TZID=Europe/Berlin:20260417T160000
+SUMMARY:WIR007103 Fallstudien / Übungen
+LAST-MODIFIED:20251117T073058Z
+UID:3c26c409-8054-4c1c-93db-7ddd41141667
+RRULE:FREQ=WEEKLY;UNTIL=20260724T160000;INTERVAL=1;BYDAY=FR
+LOCATION:K.11.23 – Hörsaal 32
+CATEGORIES:Übung
+EXDATE;TZID=Europe/Berlin:20260501T140000,20260529T140000
+URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
+ ml?_flowId=detailView-flow&unitId=63621&periodId=3508
 END:VEVENT
 END:VCALENDAR
