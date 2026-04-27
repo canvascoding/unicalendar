@@ -104,7 +104,7 @@ RDATE:19800101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20251205T100000
 DTEND;TZID=Europe/Berlin:20251205T120000
 SUMMARY:WIR024203 Fortgeschrittene Verfahren der Datenauswertung (Übung) 
@@ -119,7 +119,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=70444&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20251205T140000
 DTEND;TZID=Europe/Berlin:20251205T160000
 SUMMARY:WIR024203 Fortgeschrittene Verfahren der Datenauswertung (Übung) 
@@ -135,7 +135,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=70444&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20251020T100000
 DTEND;TZID=Europe/Berlin:20251020T140000
 SUMMARY:WIR005203 Management von Handlungen
@@ -149,7 +149,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=55096&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20251021T080000
 DTEND;TZID=Europe/Berlin:20251021T100000
 SUMMARY:WIR005203 Management von Handlungen
@@ -163,7 +163,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=55096&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20251023T080000
 DTEND;TZID=Europe/Berlin:20251023T100000
 SUMMARY:WIR029201 Evolutorische Ökonomik
@@ -177,7 +177,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=55114&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20251030T100000
 DTEND;TZID=Europe/Berlin:20251030T120000
 SUMMARY:WIR012201 Entrepreneurship und Marktentwicklung
@@ -191,7 +191,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=55116&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20251030T120000
 DTEND;TZID=Europe/Berlin:20251030T140000
 SUMMARY:WIR012202 Wettbewerbsglobalisierung
@@ -205,7 +205,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=55117&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20251031T120000
 DTEND;TZID=Europe/Berlin:20251031T160000
 SUMMARY:WIR023208 IT-Projektmanagement
@@ -219,7 +219,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=58230&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20251024T120000
 DTEND;TZID=Europe/Berlin:20251024T160000
 SUMMARY:WIR023209 Informationsmanagement
@@ -243,7 +243,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=58231&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20251022T100000
 DTEND;TZID=Europe/Berlin:20251022T140000
 SUMMARY:WIR024201 Empirische Management- und Marketingforschung
@@ -257,7 +257,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=55174&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20251017T100000
 DTEND;TZID=Europe/Berlin:20251017T120000
 SUMMARY:WIR035204 Unternehmertum und digitale Lösungen für globale Heraus
@@ -275,7 +275,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=85337&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20251024T100000
 DTEND;TZID=Europe/Berlin:20251024T140000
 SUMMARY:WIR035204 Unternehmertum und digitale Lösungen für globale Heraus
@@ -288,7 +288,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=85337&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20251212T100000
 DTEND;TZID=Europe/Berlin:20251212T120000
 SUMMARY:WIR035204 Unternehmertum und digitale Lösungen für globale Heraus
@@ -301,7 +301,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=85337&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20260206T100000
 DTEND;TZID=Europe/Berlin:20260206T120000
 SUMMARY:WIR035204 Unternehmertum und digitale Lösungen für globale Heraus
@@ -314,7 +314,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=85337&periodId=3502
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20260421T100000
 DTEND;TZID=Europe/Berlin:20260421T120000
 SUMMARY:WIR007001 Master-Seminar Innovationsmanagement (#STUD)
@@ -326,7 +326,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=58393&periodId=3508
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20260714T080000
 DTEND;TZID=Europe/Berlin:20260714T140000
 SUMMARY:WIR007001 Master-Seminar Innovationsmanagement (#STUD)
@@ -338,7 +338,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=58393&periodId=3508
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20260421T100000
 DTEND;TZID=Europe/Berlin:20260421T120000
 SUMMARY:WIR014101 Introduction to Economics of Innovation / Advanced Econ
@@ -368,7 +368,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=58205&periodId=3508
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20260421T140000
 DTEND;TZID=Europe/Berlin:20260421T160000
 SUMMARY:WIR014102 Economics of Innovation
@@ -399,7 +399,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=58206&periodId=3508
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20260417T120000
 DTEND;TZID=Europe/Berlin:20260417T140000
 SUMMARY:WIR001101 Risikocontrolling
@@ -413,7 +413,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=63584&periodId=3508
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20260421T100000
 DTEND;TZID=Europe/Berlin:20260421T140000
 SUMMARY:WIR001101 Risikocontrolling
@@ -427,7 +427,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=63584&periodId=3508
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20260421T140000
 DTEND;TZID=Europe/Berlin:20260421T160000
 SUMMARY:WIR004103 Strategisches Markenmanagement
@@ -441,7 +441,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=63606&periodId=3508
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20260421T160000
 DTEND;TZID=Europe/Berlin:20260421T180000
 SUMMARY:WIR004104 Operatives Markenmanagement
@@ -455,7 +455,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=63607&periodId=3508
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20260520T160000
 DTEND;TZID=Europe/Berlin:20260520T200000
 SUMMARY:WIR004105 Praxis des Markenmanagements
@@ -469,7 +469,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=63608&periodId=3508
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20260417T100000
 DTEND;TZID=Europe/Berlin:20260417T120000
 SUMMARY:WIR007101 Innovationsmanagement
@@ -483,7 +483,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=63619&periodId=3508
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20260417T120000
 DTEND;TZID=Europe/Berlin:20260417T140000
 SUMMARY:WIR007102 Technologiemanagement
@@ -497,7 +497,7 @@ URL:https://studiloewe.uni-wuppertal.de:443/qisserver/pages/startFlow.xht
  ml?_flowId=detailView-flow&unitId=63620&periodId=3508
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T220009Z
+DTSTAMP:20260427T220009Z
 DTSTART;TZID=Europe/Berlin:20260417T140000
 DTEND;TZID=Europe/Berlin:20260417T160000
 SUMMARY:WIR007103 Fallstudien / Übungen
